@@ -74,7 +74,6 @@
   display: flex;
   justify-content: center;
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 .two-columns {
   width: 80%;
@@ -162,7 +161,6 @@
   flex-direction: column;
   align-items: center;
   position: relative;
-  padding-top: 100px;
   background-color: #f2f2f2;
   z-index: -1;
 }
@@ -212,9 +210,11 @@
 .section-title_theme_dark {
   color: #fff;
   margin-top: 90px;
+  z-index: 1;
 }
 .section-subtitle_theme_dark {
   color: #fff;
+  z-index: 1;
 }
 .table_theme_dark {
   z-index: 1;
