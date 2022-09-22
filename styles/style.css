@@ -102,7 +102,7 @@
 .two-columns__paragraph:last-child {
   margin-bottom: 0;
 }
-.two-columns__main-text_span-accent {
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
