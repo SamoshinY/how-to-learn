@@ -1,5 +1,4 @@
 .footer__column {
-  width: auto;
   display: flex;
   flex-direction: column;
 }
